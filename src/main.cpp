@@ -3,7 +3,7 @@
 #include <WiFi.h>
 
 // Set these to your desired credentials.
-const char* Apssid = "Anything you like";
+const char* Apssid = "PIA-NICOLAU-MARISOIU";
 const char* Appassword = "123456789"; // (minimum length 8 required)
 
 hsd::tcp_server_v4* server = nullptr;     
